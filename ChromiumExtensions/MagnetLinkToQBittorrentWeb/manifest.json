@@ -1,0 +1,6 @@
+﻿{
+  "name": "Magnet to qBittorrent Web",
+  "version": "1.0",
+  "description": "add a link to download magnet and directly add to qBittorrent",
+  "manifest_version": 2
+}
